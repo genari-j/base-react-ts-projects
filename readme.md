@@ -6,5 +6,6 @@
 - jwt-decode;
 - react-hot-toast;
 - react-router-dom;
+- tanstack/react-query;
 - ZOD;
 - Biomejs;
